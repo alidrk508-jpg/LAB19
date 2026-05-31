@@ -32,7 +32,7 @@ L'application suit les principes recommandés par Google pour le développement 
 ### Aperçu
 > *Insérez ici un GIF ou des captures d'écran de l'application en action.*
 > 
-> ![Placeholder Demo](demo/demo.gif)
+> <img src="demo/demo.gif" alt="Description of the image" width="300" height="200">
 
 ---
 
