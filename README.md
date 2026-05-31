@@ -32,7 +32,7 @@ L'application suit les principes recommandés par Google pour le développement 
 ### Aperçu
 > *Insérez ici un GIF ou des captures d'écran de l'application en action.*
 > 
-> ![Placeholder Demo](https://via.placeholder.com/300x600?text=App+Demo+Placeholder)
+> ![Placeholder Demo](demo/demo.gif)
 
 ---
 
@@ -43,4 +43,4 @@ L'application suit les principes recommandés par Google pour le développement 
 4. Lancez sur un émulateur ou un appareil physique.
 
 ---
-Développé avec ❤️ par [Votre Nom/Signature: drk_]
+Développé avec ❤️ par [ali darkaoui]
