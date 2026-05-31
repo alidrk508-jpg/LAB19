@@ -29,10 +29,8 @@ L'application suit les principes recommandés par Google pour le développement 
 
 ## 📸 Démo
 <!-- PLACEHOLDER POUR DÉMO -->
-### Aperçu
-> *Insérez ici un GIF ou des captures d'écran de l'application en action.*
-> 
-> <img src="demo/demo.gif" alt="Description of the image" width="300" height="200">
+
+<img src="demo/demo.gif" alt="Description of the image" width="400" height="600">
 
 ---
 
